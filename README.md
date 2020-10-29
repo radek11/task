@@ -1,1 +1,1 @@
-"# task" 
+request should be in pattern eg. localhost:8080/Animals 1 2 4

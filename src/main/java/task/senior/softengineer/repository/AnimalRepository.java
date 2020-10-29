@@ -3,10 +3,7 @@ package task.senior.softengineer.repository;
 import org.springframework.stereotype.Component;
 
 import java.util.Arrays;
-import java.util.Collection;
 import java.util.LinkedHashSet;
-import java.util.Set;
-import java.util.stream.Collectors;
 
 @Component
 class AnimalRepository implements TypeRepository {

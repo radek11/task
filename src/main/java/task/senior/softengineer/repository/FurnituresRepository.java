@@ -4,8 +4,6 @@ import org.springframework.stereotype.Component;
 
 import java.util.Arrays;
 import java.util.LinkedHashSet;
-import java.util.Set;
-import java.util.stream.Collectors;
 
 @Component
 class FurnituresRepository implements TypeRepository {
